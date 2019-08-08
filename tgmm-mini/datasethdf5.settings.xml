@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <ViewerState>
+    <Sources>
+      <Source>
+        <active>true</active>
+      </Source>
+    </Sources>
+    <SourceGroups>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 1</name>
+        <id>0</id>
+      </SourceGroup>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 2</name>
+      </SourceGroup>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 3</name>
+      </SourceGroup>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 4</name>
+      </SourceGroup>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 5</name>
+      </SourceGroup>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 6</name>
+      </SourceGroup>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 7</name>
+      </SourceGroup>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 8</name>
+      </SourceGroup>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 9</name>
+      </SourceGroup>
+      <SourceGroup>
+        <active>true</active>
+        <name>group 10</name>
+      </SourceGroup>
+    </SourceGroups>
+    <DisplayMode>ss</DisplayMode>
+    <Interpolation>nlinear</Interpolation>
+    <CurrentSource>0</CurrentSource>
+    <CurrentGroup>0</CurrentGroup>
+    <CurrentTimePoint>0</CurrentTimePoint>
+  </ViewerState>
+  <SetupAssignments>
+    <ConverterSetups>
+      <ConverterSetup>
+        <id>0</id>
+        <min>90.0</min>
+        <max>2035.0</max>
+        <color>-1</color>
+        <groupId>0</groupId>
+      </ConverterSetup>
+    </ConverterSetups>
+    <MinMaxGroups>
+      <MinMaxGroup>
+        <id>0</id>
+        <fullRangeMin>0.0</fullRangeMin>
+        <fullRangeMax>65535.0</fullRangeMax>
+        <rangeMin>0.0</rangeMin>
+        <rangeMax>65535.0</rangeMax>
+        <currentMin>90.0</currentMin>
+        <currentMax>2035.0</currentMax>
+      </MinMaxGroup>
+    </MinMaxGroups>
+  </SetupAssignments>
+  <ManualSourceTransforms>
+    <SourceTransform type="affine">
+      <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+    </SourceTransform>
+  </ManualSourceTransforms>
+  <Bookmarks>
+    <Bookmark>
+      <key>k</key>
+      <transform>9.974903563881051 5.5088537829630635 -5.907522424950693 -1429.7324795887448 0.0 9.38714605305529 8.753655310251665 -1197.3437674182708 8.077517638690848 -6.802867872348449 7.295182644738663 -1219.7820366868496</transform>
+    </Bookmark>
+  </Bookmarks>
+</Settings>
