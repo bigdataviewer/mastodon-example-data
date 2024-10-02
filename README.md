@@ -34,7 +34,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” 
     * Léo Guignard et al., Contact area–dependent cell communication and the morphological invariance of ascidian
       embryogenesis. Science369, eaar5663(2020). DOI:[10.1126/science.aar5663](https://doi.org/10.1126/science.aar5663)
 * The dataset has been converted to Mastodon file format using these scripts:
-    * Astec file format to CSV: https://github.com/leoguignard/LineageTree/tree/master/src/LineageTree/export_csv.py
+    * Astec file format to CSV: https://github.com/GuignardLab/LineageTree/blob/master/src/LineageTree/legacy/export_csv.py
     * CSV to Mastodon file
       format: https://github.com/mastodon-sc/mastodon-deep-lineage/blob/master/src/test/java/org/mastodon/mamut/astec/AstecReader.java
 * Limitations resulting from the conversion:
